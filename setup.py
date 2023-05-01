@@ -15,7 +15,7 @@ setup(
     author_email='kspreddy94@gmail.com',
     packages=['my_profile'],
     install_requires=[
-        'Flask==1.1.0'
+        'Flask==2.3.2'
     ],
     python_requires='>=3.6'
 )
